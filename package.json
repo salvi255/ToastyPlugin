@@ -1,0 +1,32 @@
+{
+  "name": "cordova-plugin-toastyplugin",
+  "version": "0.0.1",
+  "description": "An Android Cordova plugin that allows users to display simple Toast messages at the bottom of the screen.",
+  "cordova": {
+    "id": "cordova-plugin-toastyplugin",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salvi255/ToastyPlugin.git"
+  },
+  "keywords": [
+    "Toast",
+    "Notification",
+    "Message",
+    "Alert",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Salvi Rai <raisalvi372@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/salvi255/ToastyPlugin"
+}
